@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ListViewExample</string>
+    <string-array name="names">
+        <item>C</item>
+        <item>C++</item>
+        <item>Java</item>
+        <item>Python</item>
+        <item>Core Java</item>
+        <item>Advance Java</item>
+        <item>Python</item>
+        <item>Angular JS</item>
+    </string-array>
+</resources>
